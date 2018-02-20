@@ -179,3 +179,12 @@ async function start() {
 };
 
 start();
+
+/* 
+var query   = { id: 8 }; 
+var update  = { title: "new title" }; 
+var options = { new: true }; 
+MyModel.findOneAndUpdate(query, update, options, function(err, doc){ 
+ 
+ 
+}); */
